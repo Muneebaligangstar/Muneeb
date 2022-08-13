@@ -1,5 +1,5 @@
 <h1>Here is some images</h1>
-<img src="/imgs/logo.png" >
+<img src="/img/logo.png" >
 <h1>Here Is Command </h1>
 <br>
 <p>pkg update
